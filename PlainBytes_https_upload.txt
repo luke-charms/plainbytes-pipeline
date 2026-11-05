@@ -1,0 +1,30 @@
+PlainBytes upload package: "How HTTPS keeps your data private"
+Paste each block into YouTube Studio. Blocks are separated by ===== lines.
+
+===== TITLE (pick one; #1 recommended) =====
+1. How HTTPS Hides Your Data From Spies
+2. What the Padlock in Your Browser Really Means
+3. HTTPS Explained in 35 Seconds
+
+===== DESCRIPTION =====
+Your data hops across many machines online, and nobody on the way can read it. Here's how HTTPS works in 35 seconds.
+
+HTTPS first checks the website's ID (a certificate), then your browser and the site agree on a secret key using clever math, and everything is scrambled with it. It hides what you send, not always which site you visit, and a padlock doesn't prove a site is trustworthy.
+
+Follow PlainBytes for more tech, explained simply.
+
+Visuals and narration in this video are AI-generated.
+
+#tech #HTTPS #shorts
+
+===== TAGS =====
+https, how https works, what is https, ssl tls explained, browser padlock, encryption explained, tech explained, plainbytes, shorts
+
+===== PINNED COMMENT =====
+What should I explain next? Drop your tech topic requests below.
+
+===== SETTINGS =====
+- Not made for kids
+- Altered/synthetic content disclosure: ON
+- Category: Science & Technology
+- Visibility: Public after a quick watch-through

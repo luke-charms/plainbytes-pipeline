@@ -1,9 +1,9 @@
-Some AI text carries a hidden signature. Here's how AI watermarks work in 40 seconds.
+Your data hops across many machines online, and nobody on the way can read it. Here's how HTTPS works in 35 seconds.
 
-When an AI writes, a secret key quietly nudges which words it picks, leaving a statistical pattern across the text. A detector with the same key can check for that pattern, but short texts, heavy rewriting, or translation can wash it out, and it only works for models that add a watermark.
+HTTPS first checks the website's ID (a certificate), then your browser and the site agree on a secret key using clever math, and everything is scrambled with it. It hides what you send, not always which site you visit, and a padlock doesn't prove a site is trustworthy.
 
 Follow PlainBytes for more tech, explained simply.
 
 Visuals and narration in this video are AI-generated.
 
-#tech #AIwatermark #shorts
+#tech #HTTPS #shorts
