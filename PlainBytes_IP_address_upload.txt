@@ -1,0 +1,30 @@
+PlainBytes upload package: "What is an IP address?"
+Paste each block into YouTube Studio. Blocks are separated by ===== lines.
+
+===== TITLE (pick one; #1 recommended) =====
+1. What Is an IP Address? (Explained in 30s)
+2. Your Phone Has an Address. Here's Why
+3. How Websites Find You (IP Address)
+
+===== DESCRIPTION =====
+Your phone and every website have an address. Here's how it works in 30 seconds.
+
+An IP address is like a street address for your device: every request carries your address and the destination, and routers pass it along until it arrives. Websites usually see one shared address for your whole home, and it can change.
+
+Follow PlainBytes for more tech, explained simply.
+
+Visuals and narration in this video are AI-generated.
+
+#tech #IPaddress #shorts
+
+===== TAGS =====
+ip address, what is an ip address, how the internet works, tech explained, networking basics, router, packets, plainbytes, shorts
+
+===== PINNED COMMENT =====
+What should I explain next? Drop your tech topic requests below.
+
+===== SETTINGS =====
+- Not made for kids
+- Altered/synthetic content disclosure: ON
+- Category: Science & Technology
+- Visibility: Public after a quick watch-through
