@@ -21,7 +21,13 @@ Files in this folder:
    - **Sync:** use the time-warp technique: scenes animate on an "old" timeline; `NEW_A`/`OLD_A` anchor lists map voiceover sentence starts (new, real time) to scene boundaries (old). Put captions in real voiceover time (`CAPS`), 1-3 short chunks per sentence. `DUR` = voiceover length + ~1.5s end hold; last scene holds the PlainBytes logo end card.
    - Render previews first (`python3 -I make_x.py preview dir t1 t2 ...`), build a contact sheet and LOOK at it. Fix overlaps with captions/title/safe zones before the full render. One full render only.
 6. **Mix.** `python3 music.py bed.wav DUR`; `bash assemble.sh silent.mp4 voiceover.wav bed.wav DUR final.mp4`. Verify with ffprobe (720x1280, h264+aac, duration = DUR) and loudness (~-14 to -16 LUFS integrated, true peak below -1 dBFS).
-7. **Deliver.** `SendUserFile` the final MP4 (display render). In the reply give: topic + why it was chosen (sources), and the upload package: 3 title options (<60 chars, curiosity hook, honest), description (hook line, 2-sentence explanation, subscribe line, "Visuals and narration in this video are AI-generated.", 3 hashtags), tags, pinned comment (asks for topic requests), settings (Not made for kids; **turn ON the altered/synthetic content disclosure**; category Science & Technology). Note the voice is the offline Kokoro voice. Keep it short.
+7. **Deliver.** Write a ready-to-paste text file `PlainBytes_<slug>_upload.txt` next to the MP4 and `SendUserFile` both (MP4 display render, text file display attach). If the owner's Mac folder is connected, also commit both to `~/Desktop/plainbytes/`. File layout (plain text, copy blocks separated by `=====` lines with a label, nothing else inside a block so it pastes cleanly):
+   - `TITLE (pick one)`: 3 options, <60 chars, curiosity hook, honest. Mark the recommended one.
+   - `DESCRIPTION`: hook line, 2-sentence explanation, subscribe line, "Visuals and narration in this video are AI-generated.", 3 hashtags.
+   - `TAGS`: one comma-separated line.
+   - `PINNED COMMENT`: asks for topic requests.
+   - `SETTINGS`: Not made for kids; **altered/synthetic content disclosure ON**; category Science & Technology; Shorts; visibility Public after a quick watch-through.
+   In the chat reply give only: topic + why it was chosen (sources), the three titles, a note that the voice is offline Kokoro, and "upload manually in Studio: Create > Upload videos". Keep it short.
 8. **Bookkeeping.** Append `<topic> (published <date>)` to `used_topics.txt` (write it back to the owner's folder if it is connected). Mark the tasks complete.
 
 ## Lessons learned (do not relearn)
@@ -30,4 +36,6 @@ Files in this folder:
 - The owner's Mac TTS (edge-tts) is unreliable, and the device shell is a Linux VM with no access to the TTS service. Use the offline Kokoro voice in the cloud container.
 - Do not leave captions/labels near y>830: they collide with the caption block. Brand row on the end card goes at y~760.
 - Pipe raw frames to ffmpeg (no PNG per frame); render to `*_tmp.mp4` then rename on success.
+- API uploads are NOT an option: videos.insert from an unaudited Google Cloud project is locked private and cannot be made public (not even in Studio). Manual upload only.
+- Browser tools cannot pick files in the native file dialog; do not try to automate the Studio upload.
 - Be honest about quality: the animation is code-drawn, not generative video; the voice is synthetic and must be disclosed on upload.
