@@ -1,0 +1,25 @@
+TITLE (pick one)
+=====
+1. A VPN Doesn't Make You Invisible (Here's What It Does) [recommended]
+2. What a VPN Really Does in 40 Seconds
+3. Does a VPN Actually Protect You?
+=====
+DESCRIPTION
+=====
+A VPN doesn't make you invisible online. It just changes who can see you.
+Without one, your internet provider sees every site you visit. With one, your traffic is locked and sent to the VPN server first, so the website sees the server's address, not yours. The catch: the VPN company can see your activity, and logins, cookies and viruses can still track you.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#VPN #Privacy #TechExplained
+=====
+TAGS
+=====
+VPN, what is a VPN, how does a VPN work, VPN explained, online privacy, internet privacy, tech explained, PlainBytes, cybersecurity, shorts
+=====
+PINNED COMMENT
+=====
+Which tech should I explain next? Next up: passkeys. Drop your requests below!
+=====
+SETTINGS
+=====
+Not made for kids. Altered/synthetic content disclosure: ON. Category: Science & Technology. Shorts. Visibility: Public after a quick watch-through.
