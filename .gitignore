@@ -5,3 +5,6 @@ kokoro-en-v0_19/
 __pycache__/
 prev*/
 sheet*.png
+kokoro-multi-lang-v1_0/
+extra_lexicon.txt
+venv_v1/
