@@ -1,0 +1,30 @@
+PlainBytes upload package: "How AI text watermarks work"
+Paste each block into YouTube Studio. Blocks are separated by ===== lines.
+
+===== TITLE (pick one; #1 recommended) =====
+1. How AI Hides a Secret Signature in Text
+2. Can Anyone Tell If AI Wrote This?
+3. AI Watermarks Explained in 40 Seconds
+
+===== DESCRIPTION =====
+Some AI text carries a hidden signature. Here's how AI watermarks work in 40 seconds.
+
+When an AI writes, a secret key quietly nudges which words it picks, leaving a statistical pattern across the text. A detector with the same key can check for that pattern, but short texts, heavy rewriting, or translation can wash it out, and it only works for models that add a watermark.
+
+Follow PlainBytes for more tech, explained simply.
+
+Visuals and narration in this video are AI-generated.
+
+#tech #AIwatermark #shorts
+
+===== TAGS =====
+ai watermark, synthid, how ai watermarking works, detect ai text, ai generated text, tech explained, plainbytes, shorts
+
+===== PINNED COMMENT =====
+What should I explain next? Drop your tech topic requests below.
+
+===== SETTINGS =====
+- Not made for kids
+- Altered/synthetic content disclosure: ON
+- Category: Science & Technology
+- Visibility: Public after a quick watch-through
