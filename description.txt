@@ -1,9 +1,5 @@
-Your data hops across many machines online, and nobody on the way can read it. Here's how HTTPS works in 35 seconds.
-
-HTTPS first checks the website's ID (a certificate), then your browser and the site agree on a secret key using clever math, and everything is scrambled with it. It hides what you send, not always which site you visit, and a padlock doesn't prove a site is trustworthy.
-
-Follow PlainBytes for more tech, explained simply.
-
+A VPN doesn't make you invisible online. It just changes who can see you.
+Without one, your internet provider sees every site you visit. With one, your traffic is locked and sent to the VPN server first, so the website sees the server's address, not yours. The catch: the VPN company can see your activity, and logins, cookies and viruses can still track you.
+Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-
-#tech #HTTPS #shorts
+#VPN #Privacy #TechExplained
