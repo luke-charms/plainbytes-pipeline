@@ -3,7 +3,7 @@
 Missing English words are auto-added to an extra lexicon (suffix rules) so none are skipped."""
 import re, sys, os, time, sherpa_onnx, soundfile as sf
 D = os.environ.get('KOKORO_V1_DIR', 'kokoro-multi-lang-v1_0') + '/'
-CUSTOM = {'server\'s': 's ˈ ɜ ɹ v ə ɹ z', 'vpn': 'v ˈ i p ˈ i ˈ ɛ n', 'https': 'ˈ A ʧ t ˈ i t ˈ i p ˈ i ˈ ɛ s', 'ip': 'ˈ I p ˈ i', 'plainbytes': 'p l ˈ A n b ˈ I t s'}  # extend when a run reports unknown words
+CUSTOM = {'qr': 'k j ˈ u ˈ ɑ ɹ', 'server\'s': 's ˈ ɜ ɹ v ə ɹ z', 'vpn': 'v ˈ i p ˈ i ˈ ɛ n', 'https': 'ˈ A ʧ t ˈ i t ˈ i p ˈ i ˈ ɛ s', 'ip': 'ˈ I p ˈ i', 'plainbytes': 'p l ˈ A n b ˈ I t s'}  # extend when a run reports unknown words
 lex = {}
 for line in open(D + 'lexicon-us-en.txt', encoding='utf8'):
     p = line.rstrip('\n').split(' ', 1)

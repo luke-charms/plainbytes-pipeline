@@ -1,5 +1,5 @@
-A VPN doesn't make you invisible online. It just changes who can see you.
-Without one, your internet provider sees every site you visit. With one, your traffic is locked and sent to the VPN server first, so the website sees the server's address, not yours. The catch: the VPN company can see your activity, and logins, cookies and viruses can still track you.
+A passkey is a login you never have to type or remember.
+When you sign up, your phone makes two matching keys: the website keeps the public one and your phone keeps the private one. To log in, the site sends a challenge and your phone signs it after a fingerprint or face check, so no secret is ever sent. The catch: if you lose all your devices and have no backup, getting back in gets harder.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#VPN #Privacy #TechExplained
+#Passkeys #Security #TechExplained
