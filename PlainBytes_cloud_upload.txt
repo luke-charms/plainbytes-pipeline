@@ -1,0 +1,25 @@
+TITLE (pick one)
+=====
+1. The Cloud Isn't in the Sky (Here's Where Your Photos Live) [recommended]
+2. What Is "the Cloud"? Explained in 40 Seconds
+3. Where Do Your Cloud Photos Actually Go?
+=====
+DESCRIPTION
+=====
+The cloud isn't in the sky. It's a giant warehouse full of computers.
+When you save a photo to the cloud, it's stored on another company's hard drives inside a data center, with copies on several machines so one broken drive loses nothing. The catch: it's still another company's computer, and data centers use huge amounts of electricity.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#Cloud #DataCenter #TechExplained
+=====
+TAGS
+=====
+what is the cloud, cloud computing explained, how does the cloud work, data center, cloud storage, tech explained, tech explained simply, PlainBytes, shorts
+=====
+PINNED COMMENT
+=====
+Which tech should I explain next? Next up: how Bluetooth works. Drop your requests below!
+=====
+SETTINGS
+=====
+Not made for kids. Altered/synthetic content disclosure: ON. Category: Science & Technology. Shorts. Visibility: Public after a quick watch-through.
