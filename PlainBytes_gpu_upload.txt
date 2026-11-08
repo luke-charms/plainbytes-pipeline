@@ -1,0 +1,25 @@
+TITLE (pick one)
+=====
+1. Why AI Runs on a GPU, Not Your CPU (Explained in 40s) [recommended]
+2. What Is a GPU? One Chef vs Thousands of Cooks
+3. Why Everyone Is Buying GPUs for AI
+=====
+DESCRIPTION
+=====
+AI doesn't run on your computer's main brain. It runs on a GPU.
+A CPU is like one genius chef cooking one dish at a time, while a GPU is a kitchen with thousands of cooks doing simple steps all at once. That's perfect for the millions of tiny math problems behind games and AI, but GPUs are bad at everything else, so your CPU still runs the show.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#GPU #AI #TechExplained
+=====
+TAGS
+=====
+what is a gpu, gpu vs cpu, why ai uses gpus, how gpus work, nvidia gpu explained, ai chips, tech explained, tech explained simply, PlainBytes, shorts
+=====
+PINNED COMMENT
+=====
+Which tech should I explain next? Next up: how drones deliver packages. Drop your requests below!
+=====
+SETTINGS
+=====
+Not made for kids. Altered/synthetic content disclosure: ON. Category: Science & Technology. Shorts. Visibility: Public after a quick watch-through.
