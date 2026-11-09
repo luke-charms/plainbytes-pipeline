@@ -1,5 +1,5 @@
-AI doesn't run on your computer's main brain. It runs on a GPU.
-A CPU is like one genius chef cooking one dish at a time, while a GPU is a kitchen with thousands of cooks doing simple steps all at once. That's perfect for the millions of tiny math problems behind games and AI, but GPUs are bad at everything else, so your CPU still runs the show.
+Your lost keys are being found by strangers' phones, and nobody knows it.
+A Bluetooth tracker has no GPS and no internet. It sends a tiny Bluetooth signal, any nearby phone in the network passes the encrypted location along, and only you can read it.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#GPU #AI #TechExplained
+#tech #bluetooth #shorts
