@@ -1,5 +1,5 @@
-Your lost keys are being found by strangers' phones, and nobody knows it.
-A Bluetooth tracker has no GPS and no internet. It sends a tiny Bluetooth signal, any nearby phone in the network passes the encrypted location along, and only you can read it.
+Your computer's memory wipes itself every time you shut it down. Here's why.
+RAM is your computer's desk: a fast workspace where it keeps what you're using right now, while storage is the slow filing cabinet. RAM holds tiny electric charges that leak away, so it constantly refreshes them, and when the power goes, the desk wipes clean.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#tech #bluetooth #shorts
+#RAM #TechExplained #Shorts

@@ -33,7 +33,7 @@ for w in set(re.findall(r"[A-Za-z']+", text.lower())):
         if g: extra[w] = g
         else: unknown.append(w)
 if unknown: print('UNKNOWN WORDS (add to CUSTOM, else they are skipped):', unknown)
-open('extra_lexicon.txt', 'w', encoding='utf8').write(''.join(f'{w} {p}\n' for w, p in extra.items()))
+extra.setdefault('zzqx', 'z'); open('extra_lexicon.txt', 'w', encoding='utf8').write(''.join(f'{w} {p}\n' for w, p in extra.items()))
 print('auto-added:', extra)
 sid = int(sys.argv[3]) if len(sys.argv) > 3 else 3
 speed = float(sys.argv[4]) if len(sys.argv) > 4 else 1.0
