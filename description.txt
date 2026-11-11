@@ -1,5 +1,9 @@
-Your computer's memory wipes itself every time you shut it down. Here's why.
-RAM is your computer's desk: a fast workspace where it keeps what you're using right now, while storage is the slow filing cabinet. RAM holds tiny electric charges that leak away, so it constantly refreshes them, and when the power goes, the desk wipes clean.
+A QR code is just a picture. So how does your phone read it?
+
+It's a tiny map of black and white squares: each one is a 1 or a 0, and together they spell out a web address. Three corner markers tell your camera which way is up, and built-in backup data keeps scratched codes working. The catch: a QR code can hide any link, so check before you tap.
+
 Subscribe to PlainBytes for tech, explained simply.
+
 Visuals and narration in this video are AI-generated.
-#RAM #TechExplained #Shorts
+
+#QRcode #TechExplained #Shorts

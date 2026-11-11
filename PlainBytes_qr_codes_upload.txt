@@ -1,0 +1,24 @@
+===== TITLE (pick one) =====
+1. How does your phone read a QR code? (recommended)
+2. QR codes: a tiny map of squares
+3. The QR code trick nobody explains
+
+===== DESCRIPTION =====
+A QR code is just a picture. So how does your phone read it?
+
+It's a tiny map of black and white squares: each one is a 1 or a 0, and together they spell out a web address. Three corner markers tell your camera which way is up, and built-in backup data keeps scratched codes working. The catch: a QR code can hide any link, so check before you tap.
+
+Subscribe to PlainBytes for tech, explained simply.
+
+Visuals and narration in this video are AI-generated.
+
+#QRcode #TechExplained #Shorts
+
+===== TAGS =====
+QR code, how QR codes work, tech explained, technology explained simply, how does a QR code work, QR scanner, shorts, PlainBytes
+
+===== PINNED COMMENT =====
+What tech should I explain next? Wi-Fi is coming up. Drop your requests below!
+
+===== SETTINGS =====
+Not made for kids; altered/synthetic content disclosure ON; category Science & Technology; Shorts; visibility Public after a quick watch-through.
