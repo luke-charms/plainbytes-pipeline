@@ -1,9 +1,5 @@
-A QR code is just a picture. So how does your phone read it?
-
-It's a tiny map of black and white squares: each one is a 1 or a 0, and together they spell out a web address. Three corner markers tell your camera which way is up, and built-in backup data keeps scratched codes working. The catch: a QR code can hide any link, so check before you tap.
-
+Internet from space? Here's how it actually reaches your home.
+Your dish sends a signal up to a satellite, which beams it down to a ground station wired to the internet. Newer satellites orbit much lower, so thousands of them hand you off like a relay race and the trip is shorter and faster.
 Subscribe to PlainBytes for tech, explained simply.
-
 Visuals and narration in this video are AI-generated.
-
-#QRcode #TechExplained #Shorts
+#satelliteinternet #tech #shorts
