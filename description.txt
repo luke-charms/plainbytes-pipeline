@@ -1,5 +1,5 @@
-Internet from space? Here's how it actually reaches your home.
-Your dish sends a signal up to a satellite, which beams it down to a ground station wired to the internet. Newer satellites orbit much lower, so thousands of them hand you off like a relay race and the trip is shorter and faster.
+Your phone never tells satellites where you are, so how does GPS know?
+GPS satellites only broadcast their position and the exact time. Your phone measures how long each signal took to arrive, and with three satellites (plus a fourth to fix its clock) it works out exactly where you are.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#satelliteinternet #tech #shorts
+#GPS #TechExplained #Shorts
