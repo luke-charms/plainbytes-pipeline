@@ -1,0 +1,12 @@
+An AI agent isn't just a chatbot.
+It actually does things for you.
+Think of a chatbot as a friend who gives advice, and an agent as an assistant who goes and does the errands.
+You give it a goal.
+It makes a plan, then picks a tool, like a browser or a calendar.
+It tries a step, looks at the result, and decides what to do next.
+That loop repeats until the job is done.
+Under the hood, it's a language model that can call tools, read what comes back, and keep going.
+The catch: it can make mistakes while acting, like buying the wrong thing.
+That's why companies are adding limits and kill switches.
+Next up: what is a quantum computer?
+Follow PlainBytes for more tech, explained simply.
