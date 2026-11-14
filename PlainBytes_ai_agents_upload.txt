@@ -1,0 +1,16 @@
+=====TITLE (pick one)=====
+1. What an AI Agent Really Is (It's Not a Chatbot) [RECOMMENDED]
+2. AI Agents Explained: The Loop Behind Them
+3. Chatbot vs AI Agent in 40 Seconds
+=====DESCRIPTION=====
+An AI agent isn't just a chatbot. It actually does things for you.
+An agent is a language model that makes a plan, picks a tool like a browser or calendar, tries a step, looks at the result and repeats until the job is done. The catch: it can make mistakes while acting, which is why limits and kill switches matter.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#AIAgents #TechExplained #Shorts
+=====TAGS=====
+AI agent, AI agents explained, what is an AI agent, chatbot vs agent, agentic AI, how AI agents work, tech explained, PlainBytes, shorts, language model
+=====PINNED COMMENT=====
+Which tech should I explain next? Quantum computers are up next, drop your requests below!
+=====SETTINGS=====
+Not made for kids; altered/synthetic content disclosure ON; category Science & Technology; Shorts; visibility Public after a quick watch-through.

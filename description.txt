@@ -1,5 +1,5 @@
-Your phone never tells satellites where you are, so how does GPS know?
-GPS satellites only broadcast their position and the exact time. Your phone measures how long each signal took to arrive, and with three satellites (plus a fourth to fix its clock) it works out exactly where you are.
+An AI agent isn't just a chatbot. It actually does things for you.
+An agent is a language model that makes a plan, picks a tool like a browser or calendar, tries a step, looks at the result and repeats until the job is done. The catch: it can make mistakes while acting, which is why limits and kill switches matter.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#GPS #TechExplained #Shorts
+#AIAgents #TechExplained #Shorts
