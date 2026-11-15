@@ -1,0 +1,16 @@
+=====TITLE (pick one)=====
+1. What Is an API Key? (Your Hotel Key Card for Apps) [RECOMMENDED]
+2. This Tiny Secret Code Lets Apps Talk to Each Other
+3. API Keys Explained in 30 Seconds
+=====DESCRIPTION=====
+Behind many apps, a secret code is doing the talking, so what is an API key?
+An API key is a long secret code that a program shows a service with every request. The service checks it, then decides what that program may do and how much, like a hotel key card that only opens the doors you paid for.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#APIKey #TechExplained #Shorts
+=====TAGS=====
+API key, what is an API key, API explained, API keys explained, secret key, app security, tech explained, PlainBytes, shorts, how APIs work
+=====PINNED COMMENT=====
+Which tech should I explain next? Wi-Fi is up next, drop your requests below!
+=====SETTINGS=====
+Not made for kids; altered/synthetic content disclosure ON; category Science & Technology; Shorts; visibility Public after a quick watch-through.

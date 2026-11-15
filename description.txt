@@ -1,5 +1,5 @@
-An AI agent isn't just a chatbot. It actually does things for you.
-An agent is a language model that makes a plan, picks a tool like a browser or calendar, tries a step, looks at the result and repeats until the job is done. The catch: it can make mistakes while acting, which is why limits and kill switches matter.
+Behind many apps, a secret code is doing the talking, so what is an API key?
+An API key is a long secret code that a program shows a service with every request. The service checks it, then decides what that program may do and how much, like a hotel key card that only opens the doors you paid for.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#AIAgents #TechExplained #Shorts
+#APIKey #TechExplained #Shorts
