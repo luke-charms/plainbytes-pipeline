@@ -1,0 +1,16 @@
+===== TITLE (pick one) =====
+1. Why Quantum Computers Keep Making Mistakes (recommended)
+2. Quantum Computers' Biggest Problem, Explained
+3. What Is a Qubit? The Spinning Coin Trick
+===== DESCRIPTION =====
+Quantum computers don't just need to be fast, they need to stop making mistakes.
+A qubit holds a blend of zero and one, like a spinning coin, but heat and noise knock it out of balance. Engineers spread one piece of information across many qubits and keep checking for errors.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#quantumcomputing #tech #explained
+===== TAGS =====
+quantum computer, qubit, quantum error correction, how quantum computers work, quantum computing explained, tech explained, PlainBytes, shorts
+===== PINNED COMMENT =====
+Which tech topic should I explain next? Drop your requests below!
+===== SETTINGS =====
+Not made for kids; altered/synthetic content disclosure ON; category Science & Technology; Shorts; visibility Public after a quick watch-through.
