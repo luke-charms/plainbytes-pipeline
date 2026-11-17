@@ -1,0 +1,16 @@
+=====TITLE (pick one)=====
+1. How Wi-Fi Really Works (it's just radio) [RECOMMENDED]
+2. Wi-Fi Never Touches the Internet. Here's Why
+3. Wi-Fi Explained in 30 Seconds
+=====DESCRIPTION=====
+Wi-Fi isn't magic, and it never touches the internet itself. So what is it actually doing?
+Your phone sends data as invisible radio waves, the router catches them and passes them down a cable to the internet. Every message is split into tiny labelled packets, so many devices can share the same air without mixing up their mail.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#WiFi #TechExplained #Shorts
+=====TAGS=====
+Wi-Fi, how Wi-Fi works, WiFi explained, router, radio waves, packets, wireless internet, tech explained, PlainBytes, shorts
+=====PINNED COMMENT=====
+Which tech should I explain next? Bluetooth is up next, drop your requests below!
+=====SETTINGS=====
+Not made for kids; altered/synthetic content disclosure ON; category Science & Technology; Shorts; visibility Public after a quick watch-through.

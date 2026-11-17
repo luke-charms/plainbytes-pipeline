@@ -1,5 +1,5 @@
-Quantum computers don't just need to be fast, they need to stop making mistakes.
-A qubit holds a blend of zero and one, like a spinning coin, but heat and noise knock it out of balance. Engineers spread one piece of information across many qubits and keep checking for errors.
+Wi-Fi isn't magic, and it never touches the internet itself. So what is it actually doing?
+Your phone sends data as invisible radio waves, the router catches them and passes them down a cable to the internet. Every message is split into tiny labelled packets, so many devices can share the same air without mixing up their mail.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#quantumcomputing #tech #explained
+#WiFi #TechExplained #Shorts
