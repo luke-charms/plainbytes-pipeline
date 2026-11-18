@@ -1,5 +1,5 @@
-Wi-Fi isn't magic, and it never touches the internet itself. So what is it actually doing?
-Your phone sends data as invisible radio waves, the router catches them and passes them down a cable to the internet. Every message is split into tiny labelled packets, so many devices can share the same air without mixing up their mail.
+Your AI can't use your apps on its own. MCP is the plug that lets it.
+MCP (Model Context Protocol) is a shared standard that lets AI apps connect to tools like calendars, files and databases. A tool shares a menu of what it can do, the AI picks an action, and the tool sends back the result.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#WiFi #TechExplained #Shorts
+#MCP #AI #TechExplained

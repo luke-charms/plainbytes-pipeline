@@ -1,0 +1,16 @@
+===== TITLE (pick one) =====
+1. What is MCP? The USB-C of AI (recommended)
+2. How AI Plugs Into Your Apps
+3. MCP Explained in 40 Seconds
+===== DESCRIPTION =====
+Your AI can't use your apps on its own. MCP is the plug that lets it.
+MCP (Model Context Protocol) is a shared standard that lets AI apps connect to tools like calendars, files and databases. A tool shares a menu of what it can do, the AI picks an action, and the tool sends back the result.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#MCP #AI #TechExplained
+===== TAGS =====
+MCP, Model Context Protocol, what is MCP, AI tools, AI agents, tech explained, how AI connects to apps, PlainBytes, shorts
+===== PINNED COMMENT =====
+Which tech topic should PlainBytes explain next? Drop your requests below!
+===== SETTINGS =====
+Not made for kids; altered/synthetic content disclosure ON; category Science & Technology; Shorts; visibility Public after a quick watch-through.
