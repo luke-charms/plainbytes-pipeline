@@ -1,0 +1,16 @@
+===== TITLE (pick one) =====
+1. How your phone finds any website (DNS in 30s)  <- recommended
+2. The internet's phone book, explained
+3. Why 'the internet is down' is often just DNS
+===== DESCRIPTION =====
+Your phone can't read website names. So how does it find them?
+DNS is the internet's phone book: it turns a name like pizza.com into the number (IP address) your phone actually calls. Answers are remembered for a while, so the next lookup is almost instant.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#DNS #Internet #TechExplained
+===== TAGS =====
+DNS, how DNS works, what is DNS, domain name system, IP address, internet explained, tech explained, PlainBytes, shorts
+===== PINNED COMMENT =====
+Next up: how cookies work. What tech should I explain after that? Tell me below!
+===== SETTINGS =====
+Not made for kids; altered/synthetic content disclosure ON; category Science & Technology; Shorts; visibility Public after a quick watch-through.
