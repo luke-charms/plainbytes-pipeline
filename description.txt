@@ -1,5 +1,5 @@
-Your phone can't read website names. So how does it find them?
-DNS is the internet's phone book: it turns a name like pizza.com into the number (IP address) your phone actually calls. Answers are remembered for a while, so the next lookup is almost instant.
+Why does a video load instantly, even from the other side of the planet?
+A CDN keeps copies of popular files on servers in cities around the world, so you get them from the nearest one. Shorter trip, faster page, less traffic for the main server.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#DNS #Internet #TechExplained
+#CDN #Internet #TechExplained

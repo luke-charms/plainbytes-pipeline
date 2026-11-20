@@ -1,0 +1,16 @@
+===== TITLE (pick one) =====
+1. Why websites load fast anywhere (CDN in 35s)  <- recommended
+2. What a CDN is, explained simply
+3. Why one outage can break thousands of sites
+===== DESCRIPTION =====
+Why does a video load instantly, even from the other side of the planet?
+A CDN keeps copies of popular files on servers in cities around the world, so you get them from the nearest one. Shorter trip, faster page, less traffic for the main server.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#CDN #Internet #TechExplained
+===== TAGS =====
+CDN, what is a CDN, how CDN works, content delivery network, internet outage, website speed, internet explained, tech explained, PlainBytes, shorts
+===== PINNED COMMENT =====
+Next up: how cookies work. What tech should I explain after that? Tell me below!
+===== SETTINGS =====
+Not made for kids; altered/synthetic content disclosure ON; category Science & Technology; Shorts; visibility Public after a quick watch-through.
