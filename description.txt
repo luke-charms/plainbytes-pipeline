@@ -1,5 +1,5 @@
-Why does a video load instantly, even from the other side of the planet?
-A CDN keeps copies of popular files on servers in cities around the world, so you get them from the nearest one. Shorter trip, faster page, less traffic for the main server.
+Why does a shop remember your cart, even after you close the tab?
+A cookie is a tiny file your browser stores with a random number on it. Next visit, your browser hands it back, so the site knows it's you. Some cookies come from advertisers and follow you across sites, which is why browsers let you block them.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#CDN #Internet #TechExplained
+#Cookies #Privacy #TechExplained
