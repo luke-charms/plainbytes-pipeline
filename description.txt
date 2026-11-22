@@ -1,5 +1,5 @@
-Why does a shop remember your cart, even after you close the tab?
-A cookie is a tiny file your browser stores with a random number on it. Next visit, your browser hands it back, so the site knows it's you. Some cookies come from advertisers and follow you across sites, which is why browsers let you block them.
+Why can a hacker know your password and still not get into your account?
+Two-factor authentication adds a second lock: a six digit code your phone makes from a secret key and the current time, changing every 30 seconds. Without your phone, a stolen password isn't enough.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#Cookies #Privacy #TechExplained
+#2FA #CyberSecurity #TechExplained

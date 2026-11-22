@@ -1,0 +1,16 @@
+===== TITLE (pick one) =====
+1. Why a stolen password isn't enough (2FA in 40s)  <- recommended
+2. How two-factor authentication really works
+3. Why your login code changes every 30 seconds
+===== DESCRIPTION =====
+Why can a hacker know your password and still not get into your account?
+Two-factor authentication adds a second lock: a six digit code your phone makes from a secret key and the current time, changing every 30 seconds. Without your phone, a stolen password isn't enough.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#2FA #CyberSecurity #TechExplained
+===== TAGS =====
+two factor authentication, 2FA explained, how 2FA works, authenticator app, one time password, TOTP, SMS codes, online security, password security, tech explained, PlainBytes, shorts
+===== PINNED COMMENT =====
+Next up: what a firewall does. What tech should I explain after that? Tell me below!
+===== SETTINGS =====
+Not made for kids; altered/synthetic content disclosure ON; category Science & Technology; Shorts; visibility Public after a quick watch-through.
