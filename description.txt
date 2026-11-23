@@ -1,5 +1,5 @@
-Why can a hacker know your password and still not get into your account?
-Two-factor authentication adds a second lock: a six digit code your phone makes from a secret key and the current time, changing every 30 seconds. Without your phone, a stolen password isn't enough.
+One fake message can steal your password without any hacking. Here's how phishing really works.
+Phishing is a scam message that looks like your bank, a delivery or a sale, and sends you to a fake copy of a real website. You type your password, and the scammer gets it. Check the address, type it yourself, or use a passkey.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#2FA #CyberSecurity #TechExplained
+#phishing #cybersecurity #techexplained
