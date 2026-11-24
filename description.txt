@@ -1,5 +1,5 @@
-One fake message can steal your password without any hacking. Here's how phishing really works.
-Phishing is a scam message that looks like your bank, a delivery or a sale, and sends you to a fake copy of a real website. You type your password, and the scammer gets it. Check the address, type it yourself, or use a passkey.
+Tap to pay doesn't send your card number. Here's what it actually does.
+When you tap, the terminal's tiny radio field powers your card's chip or wakes your phone, which replies with a stand-in number and a one-time code that is useless if copied.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#phishing #cybersecurity #techexplained
+#tech #techexplained #shorts
