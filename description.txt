@@ -1,5 +1,5 @@
-Tap to pay doesn't send your card number. Here's what it actually does.
-When you tap, the terminal's tiny radio field powers your card's chip or wakes your phone, which replies with a stand-in number and a one-time code that is useless if copied.
+End-to-end encryption means even the chat app can't read your messages. Here's what it actually does.
+Your phone locks each message with a padlock only your friend's key can open, so the servers in the middle just pass along a scrambled box. The catch: it protects messages on the way, not on an unlocked screen.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
 #tech #techexplained #shorts

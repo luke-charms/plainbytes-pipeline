@@ -1,0 +1,20 @@
+===== TITLE (pick one) =====
+1. How end-to-end encryption keeps chats private (recommended)
+2. Why your chat app can't read your messages
+3. The padlock trick behind private messaging
+
+===== DESCRIPTION =====
+End-to-end encryption means even the chat app can't read your messages. Here's what it actually does.
+Your phone locks each message with a padlock only your friend's key can open, so the servers in the middle just pass along a scrambled box. The catch: it protects messages on the way, not on an unlocked screen.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#tech #techexplained #shorts
+
+===== TAGS =====
+end-to-end encryption, E2EE, how encryption works, WhatsApp encryption, Signal, private messaging, tech explained, how it works, PlainBytes, shorts
+
+===== PINNED COMMENT =====
+What should PlainBytes explain next? Drop your topic requests below! Next up: how a password manager works.
+
+===== SETTINGS =====
+Not made for kids. Altered/synthetic content disclosure: ON. Category: Science & Technology. Format: Short. Visibility: Public after a quick watch-through.
