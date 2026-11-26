@@ -1,5 +1,5 @@
-End-to-end encryption means even the chat app can't read your messages. Here's what it actually does.
-Your phone locks each message with a padlock only your friend's key can open, so the servers in the middle just pass along a scrambled box. The catch: it protects messages on the way, not on an unlocked screen.
+Bluetooth isn't one steady signal. Here's what it actually does.
+Your phone and earbuds share a secret pattern and hop together between dozens of radio channels many times a second, sending music as tiny packets that are put back in order.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
 #tech #techexplained #shorts
