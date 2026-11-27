@@ -1,5 +1,5 @@
-Bluetooth isn't one steady signal. Here's what it actually does.
-Your phone and earbuds share a secret pattern and hop together between dozens of radio channels many times a second, sending music as tiny packets that are put back in order.
+How can a video show someone saying something they never said? Deepfakes!
+A deepfake is made by two AIs playing a game: a forger keeps making fake faces and a detective keeps catching them, until the fakes get good enough to fool even the detective. Voices can be copied the same way, so never trust a scary call just because it sounds like someone you know.
 Subscribe to PlainBytes for tech, explained simply.
 Visuals and narration in this video are AI-generated.
-#tech #techexplained #shorts
+#deepfake #AI #techexplained

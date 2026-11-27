@@ -1,0 +1,16 @@
+=====TITLE (pick one)=====
+1. Deepfakes: how two AIs fool your eyes (RECOMMENDED)
+2. How a deepfake is made in 40 seconds
+3. Why you can't trust videos anymore
+=====DESCRIPTION=====
+How can a video show someone saying something they never said? Deepfakes!
+A deepfake is made by two AIs playing a game: a forger keeps making fake faces and a detective keeps catching them, until the fakes get good enough to fool even the detective. Voices can be copied the same way, so never trust a scary call just because it sounds like someone you know.
+Subscribe to PlainBytes for tech, explained simply.
+Visuals and narration in this video are AI-generated.
+#deepfake #AI #techexplained
+=====TAGS=====
+deepfake, how deepfakes work, AI, artificial intelligence, GAN, voice cloning, AI scams, tech explained, PlainBytes, shorts
+=====PINNED COMMENT=====
+What tech should PlainBytes explain next? Drop your topic below! Next up: how an eSIM works.
+=====SETTINGS=====
+Not made for kids; altered/synthetic content disclosure ON; category Science & Technology; Shorts; visibility Public after a quick watch-through.
