@@ -1,0 +1,9 @@
+Your OLED screen has no backlight at all. Here's why that matters.
+
+An LCD uses an always-on lamp with tiny shutters in front. An OLED makes its own light in every pixel, so a black pixel simply switches off. The catch: the organic materials wear out over time, which is where burn-in comes from.
+
+Subscribe to PlainBytes for tech explained simply.
+
+Visuals and narration in this video are AI-generated.
+
+#OLED #TechExplained #Shorts
