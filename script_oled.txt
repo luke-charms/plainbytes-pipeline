@@ -1,0 +1,8 @@
+Your OLED screen has no backlight at all. Here's what's actually happening.
+A normal LCD screen is like a window with a lamp behind it. The lamp is always on, and tiny shutters block the light.
+An OLED works differently. Every single pixel makes its own light, like a tiny light bulb.
+Electricity flows through a thin organic layer, and that layer glows red, green, or blue.
+To show black, the pixel just switches off. That's why the blacks look so deep, and the contrast is so sharp.
+Millions of pixels do this at once, each one turning on, dimming, or going dark, many times every second.
+The catch? Those organic materials slowly wear out, the blue ones fastest. So a still image left up for months can leave a faint ghost called burn-in.
+Next up: how noise cancelling headphones work. Follow for more.

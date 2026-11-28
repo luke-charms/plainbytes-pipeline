@@ -1,5 +1,9 @@
-How can a video show someone saying something they never said? Deepfakes!
-A deepfake is made by two AIs playing a game: a forger keeps making fake faces and a detective keeps catching them, until the fakes get good enough to fool even the detective. Voices can be copied the same way, so never trust a scary call just because it sounds like someone you know.
-Subscribe to PlainBytes for tech, explained simply.
+Your OLED screen has no backlight at all. Here's why that matters.
+
+An LCD uses an always-on lamp with tiny shutters in front. An OLED makes its own light in every pixel, so a black pixel simply switches off. The catch: the organic materials wear out over time, which is where burn-in comes from.
+
+Subscribe to PlainBytes for tech explained simply.
+
 Visuals and narration in this video are AI-generated.
-#deepfake #AI #techexplained
+
+#OLED #TechExplained #Shorts
